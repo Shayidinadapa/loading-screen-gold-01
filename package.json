@@ -1,0 +1,1 @@
+{"description":"Loading Screen Gold: a one-line loading-screen tip for stressed developers and AI coding agents (make.fun bounty entry)","license":"MIT","main":"main.ts","name":"loading-screen-gold-01","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
